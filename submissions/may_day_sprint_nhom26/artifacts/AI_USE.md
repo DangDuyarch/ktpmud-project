@@ -1,0 +1,1 @@
+Đang cập nhật cho PC-2, hoàn thiện trước Freeze 19/11.

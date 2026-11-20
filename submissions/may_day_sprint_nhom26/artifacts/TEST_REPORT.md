@@ -162,7 +162,7 @@ Trong `tests/test_classifier.py` đã xác định năm test:
 
 Các test này cung cấp bằng chứng cho cấu trúc audit bốn trường, một số kiểm tra không lộ dữ liệu mẫu, `INVALID_INPUT`, xử lý `AuditError`, ưu tiên lỗi audit và vị trí thư mục audit mặc định.
 
-## 6. Kiểm thử audit và quyền riêng tư
+## 7. Kiểm thử audit và quyền riêng tư
 
 Các kiểm tra audit phải tuân theo REQUIREMENTS v1.1:
 
